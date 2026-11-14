@@ -1,0 +1,16 @@
+C:\Users\SHEVA\source\repos\LOGIN_SQL\LOGIN_SQL\bin\Debug\LOGIN_SQL.exe.config
+C:\Users\SHEVA\source\repos\LOGIN_SQL\LOGIN_SQL\bin\Debug\LOGIN_SQL.exe
+C:\Users\SHEVA\source\repos\LOGIN_SQL\LOGIN_SQL\bin\Debug\LOGIN_SQL.pdb
+C:\Users\SHEVA\source\repos\LOGIN_SQL\LOGIN_SQL\bin\Debug\LOGIN_SQL.xml
+C:\Users\SHEVA\source\repos\LOGIN_SQL\LOGIN_SQL\obj\Debug\LOGIN_SQL.vbproj.AssemblyReference.cache
+C:\Users\SHEVA\source\repos\LOGIN_SQL\LOGIN_SQL\obj\Debug\LOGIN_SQL.Form1.resources
+C:\Users\SHEVA\source\repos\LOGIN_SQL\LOGIN_SQL\obj\Debug\LOGIN_SQL.Resources.resources
+C:\Users\SHEVA\source\repos\LOGIN_SQL\LOGIN_SQL\obj\Debug\LOGIN_SQL.vbproj.GenerateResource.cache
+C:\Users\SHEVA\source\repos\LOGIN_SQL\LOGIN_SQL\obj\Debug\LOGIN_SQL.vbproj.CoreCompileInputs.cache
+C:\Users\SHEVA\source\repos\LOGIN_SQL\LOGIN_SQL\obj\Debug\LOGIN_SQL.exe
+C:\Users\SHEVA\source\repos\LOGIN_SQL\LOGIN_SQL\obj\Debug\LOGIN_SQL.xml
+C:\Users\SHEVA\source\repos\LOGIN_SQL\LOGIN_SQL\obj\Debug\LOGIN_SQL.pdb
+C:\Users\SHEVA\source\repos\LOGIN_SQL\LOGIN_SQL\obj\Debug\LOGIN_SQL.Form2.resources
+C:\Users\SHEVA\source\repos\LOGIN_SQL\LOGIN_SQL\obj\Debug\LOGIN_SQL.exe.config
+C:\Users\SHEVA\source\repos\LOGIN_SQL\LOGIN_SQL\obj\Debug\LOGIN_SQL.Form3.resources
+C:\Users\SHEVA\source\repos\LOGIN_SQL\LOGIN_SQL\obj\Debug\LOGIN_SQL.Form4.resources
